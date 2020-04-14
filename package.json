@@ -1,6 +1,6 @@
 {
-  "name": "ng2-ion-range-slider",
-  "version": "2.0.0",
+  "name": "ngx-ion-range-slider",
+  "version": "7.1.0",
   "description": "Ion Range Slider for Angular",
   "main": "index.js",
   "types": "index.d.ts",
@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/PhilippStein/ng2-ion-range-slider.git"
+    "url": "git+https://github.com/shaaakh/ngx-ion-range-slider.git"
   },
   "keywords": [
     "Angular",
@@ -18,25 +18,25 @@
     "range",
     "slider"
   ],
-  "author": "git@philipp-stein.de",
+  "author": "mohammad@rebati.net",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/PhilippStein/ng2-ion-range-slider/issues"
+    "url": "https://github.com/shaaakh/ngx-ion-range-slider/issues"
   },
-  "homepage": "https://github.com/PhilippStein/ng2-ion-range-slider#readme",
+  "homepage": "https://github.com/shaaakh/ngx-ion-range-slider#readme",
   "devDependencies": {
-    "@angular/common": "^2.4.4",
-    "@angular/compiler": "^2.4.4",
-    "@angular/compiler-cli": "^2.4.4",
-    "@angular/core": "^2.4.4",
+    "@angular/common": "^7.1.0",
+    "@angular/compiler": "^7.1.0",
+    "@angular/compiler-cli": "^7.1.0",
+    "@angular/core": "^7.1.0",
     "@types/core-js": "^0.9.41",
     "typescript": "2.0.9"
   },
   "peerDependencies": {
-    "@angular/core": ">=2.4.4"
+    "@angular/core": ">=7.1.0"
   },
   "dependencies": {
-    "@types/jquery": "^2.0.40",
-    "ion-rangeslider": "^2.3.0"
+    "@types/jquery": "^3.3.34",
+    "ion-rangeslider": "^2.3.1"
   }
 }
